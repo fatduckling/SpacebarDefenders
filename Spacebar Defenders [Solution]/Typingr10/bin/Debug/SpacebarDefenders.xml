@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SpacebarDefenders
+</name>
+</assembly>
+<members>
+<member name="P:TypingStabler1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources._continue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.arrow_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.barrel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.black_click">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.bomb">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.bullet">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.cannon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.cat_highscores">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.cat_home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.cat_settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.explosion">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.explosion1">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.gray">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.groundExplosion">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.help">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.help_big">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.helpScreen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.high_scores_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.home_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.large_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.laser">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.null">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.pink">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.play">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.redo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.settings_larget">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.shoot">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.tick">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.trigger">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.trophy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.white">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.wordsEn">
+	<summary>
+  Looks up a localized string similar to  25
+165
+1018
+4148
+11066
+22559
+39441
+58903
+75595
+87477
+95851
+101663
+105339
+107441
+108600
+109183
+109412
+109519
+109558
+109587
+109598
+109602
+109604
+109605
+109606
+ab
+ac
+ad
+ah
+ai
+al
+am
+an
+as
+at
+aw
+ax
+ay
+bb
+be
+br
+by
+ca
+cc
+cd
+cl
+co
+cr
+cs
+ct
+db
+dc
+de
+do
+dp
+dx
+eh
+el
+en
+es
+et
+ex
+ga
+go
+ha
+he
+hi
+ho
+hp
+hr
+ic
+id
+ie
+if
+ii
+in
+is
+it
+iv
+kb
+kl
+la
+lf
+lh
+ll
+lo
+lr
+ma
+mb
+mc
+md
+me
+mf
+mg
+mn
+mo
+mr
+ms
+mw
+my
+na
+ne
+nj
+nm
+no
+nu
+ny
+o [rest of string was truncated]";.
+</summary>
+</member><member name="P:TypingStabler1.My.Resources.Resources.yellow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:TypingStabler1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,231 @@
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+E:\duck\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+E:\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+E:\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+E:\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+E:\duck\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+E:\duck\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+E:\duck\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+E:\duck\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+E:\duck\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+E:\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\David\Desktop\duck\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\Saleem\Downloads\Typingr10.2\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\Saleem\Documents\Visual Studio 2010\Projects\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+E:\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+E:\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+E:\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+E:\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+E:\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+E:\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+E:\Typingr13\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+E:\Typingr13\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+E:\Typingr13\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+E:\Typingr13\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr14\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr15\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+E:\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+E:\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+E:\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+E:\Typingr16\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+E:\Typingr16\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+C:\Users\David\Desktop\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+C:\Users\fat duckling\Downloads\Typingr17a\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Form1.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.test.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr18\Typingr17\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\David\Desktop\Typingr19\Typingr10\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\David\Desktop\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\TypingStabler1.highscore.resources
+C:\Users\fat duckling\Desktop\Typingr21\Typingr20\Typingr19\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\bin\Debug\Typingr10.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\bin\Debug\Typingr10.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\bin\Debug\Typingr10.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\bin\Debug\Typingr10.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\Typingr10.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\TypingStabler1.add_highscores.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\obj\x86\Debug\TypingStabler1.help.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\Typingr21\Typingr10\bin\Debug\SpacebarDefenders.exe.config

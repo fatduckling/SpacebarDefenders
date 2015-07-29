@@ -1,0 +1,34 @@
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\bin\Debug\SpacebarDefenders.exe.config
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\bin\Debug\SpacebarDefenders.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\bin\Debug\SpacebarDefenders.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\bin\Debug\SpacebarDefenders.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\TypingStabler1.add_highscores.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\TypingStabler1.help.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\SpacebarDefenders.vbproj.GenerateResource.Cache
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\SpacebarDefenders.exe
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\SpacebarDefenders.xml
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\SpacebarDefenders.pdb
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\bin\Debug\SpacebarDefenders.exe.manifest
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\bin\Debug\SpacebarDefenders.application
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\SpacebarDefenders.exe.manifest
+C:\Users\fat duckling\fatduckling@live.com\Documents\Visual Studio 2010\Projects\SpacebarDefenders_FINAL\Typingr10\obj\x86\Debug\SpacebarDefenders.application
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\bin\Debug\SpacebarDefenders.exe.config
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\SpacebarDefenders.exe
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\SpacebarDefenders.xml
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\SpacebarDefenders.pdb
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\bin\Debug\SpacebarDefenders.exe.manifest
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\bin\Debug\SpacebarDefenders.application
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\bin\Debug\SpacebarDefenders.exe
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\bin\Debug\SpacebarDefenders.pdb
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\bin\Debug\SpacebarDefenders.xml
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\TypingStabler1.add_highscores.resources
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\TypingStabler1.gameGUI.resources
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\TypingStabler1.help.resources
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\TypingStabler1.home.resources
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\TypingStabler1.Resources.resources
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\SpacebarDefenders.vbproj.GenerateResource.Cache
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\SpacebarDefenders.exe.manifest
+E:\softwarefeatures\Spacebar Defenders [Solution]\Typingr10\obj\x86\Debug\SpacebarDefenders.application
